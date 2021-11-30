@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# データソースのローカルストレージがファイルを無視しました
+=======
 # デフォルトの無視対象ファイル
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+>>>>>>> origin/main
 /dataSources/
 /dataSources.local.xml
 # エディターベースの HTTP クライアントリクエスト
